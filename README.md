@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="LIKITHADB.png" width="100%">
+  <img src="LIKITHA DB.png" width="100%">
 </p>
 
