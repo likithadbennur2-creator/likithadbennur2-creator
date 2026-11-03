@@ -50,19 +50,24 @@
 
 ## 🚀 What I'm Currently Building
 
-```text
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│  💻 Software Development                           │
-│  ⚛️  React + JavaScript                            │
-│  ☕ Java + Spring Boot                              │
-│  🗄️  SQL & Database Systems                        │
-│  ☁️  Cloud & DevOps                                │
-│  🤖 AI-powered applications                        │
-│                                                    │
-╰────────────────────────────────────────────────────╯
-```
+<div align="center">
 
+<table>
+<tr>
+<td align="left">
+
+💻 &nbsp; Software Development<br/>
+⚛️ &nbsp; React + JavaScript<br/>
+☕ &nbsp; Java + Spring Boot<br/>
+🗄️ &nbsp; SQL & Database Systems<br/>
+☁️ &nbsp; Cloud & DevOps<br/>
+🤖 &nbsp; AI-powered Applications
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 <!-- ===================== PROJECTS ===================== -->
