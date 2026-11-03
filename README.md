@@ -154,15 +154,13 @@ DSA                         ██████████░░░░░░░�
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=likithadbennur2-creator&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=likithadbennur2-creator&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
 
-</div>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=likithadbennur2-creator&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
-<br>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=likithadbennur2-creator&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://streak-stats.demolab.com?user=likithadbennur2-creator&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
 
