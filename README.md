@@ -149,7 +149,7 @@ DSA                         ██████████░░░░░░░�
 <!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 GitHub Analytics
-## 📊 GitHub Analytics
+
 
 <div align="center">
 
@@ -159,7 +159,8 @@ DSA                         ██████████░░░░░░░�
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=likithadbennur2-creator&background=0B1020&ring=C084FC&fire=22D3EE&currStreakLabel=E879F9&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&hide_border=true" width="70%"/>
+
+<img src="https://streak-stats.demolab.com?user=likithadbennur2-creator&background=0B1020&ring=FF8C00&fire=FF4500&currStreakLabel=FFA500&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&stroke=FF8C00&border=FF8C00&hide_border=false" width="70%" />
 
 </div>
 ---
