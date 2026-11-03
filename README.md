@@ -170,11 +170,28 @@ DSA                         ██████████░░░░░░░�
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
+
 ## 🐍 My Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/likithadbennur2-creator/likithadbennur2-creator/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/likithadbennur2-creator/likithadbennur2-creator/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/likithadbennur2-creator/likithadbennur2-creator/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/likithadbennur2-creator/likithadbennur2-creator/output/github-contribution-grid-snake.svg"
+    width="95%"
+  />
+</picture>
 
 </div>
 
