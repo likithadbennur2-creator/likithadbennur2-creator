@@ -149,21 +149,19 @@ DSA                         ██████████░░░░░░░�
 <!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 GitHub Analytics
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=likithadbennur2-creator&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=likithadbennur2-creator&show_icons=true&bg_color=0B1020&title_color=C084FC&text_color=E2E8F0&icon_color=22D3EE&border_color=7C3AED&hide_border=false" height="180"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=likithadbennur2-creator&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=likithadbennur2-creator&layout=compact&bg_color=0B1020&title_color=C084FC&text_color=E2E8F0&border_color=7C3AED&hide_border=false" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=likithadbennur2-creator&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=likithadbennur2-creator&background=0B1020&ring=C084FC&fire=22D3EE&currStreakLabel=E879F9&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&hide_border=true" width="70%"/>
 
 </div>
-
 ---
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
